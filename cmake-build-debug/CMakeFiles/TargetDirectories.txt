@@ -1,0 +1,3 @@
+C:/Users/sofik/CLionProjects/qs_sort_middle/cmake-build-debug/CMakeFiles/qs_sort_middle.dir
+C:/Users/sofik/CLionProjects/qs_sort_middle/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sofik/CLionProjects/qs_sort_middle/cmake-build-debug/CMakeFiles/rebuild_cache.dir
